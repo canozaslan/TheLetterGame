@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterGame", "LetterGame\LetterGame.csproj", "{261E9ADF-B271-4112-B515-E0B16ED30B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261E9ADF-B271-4112-B515-E0B16ED30B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261E9ADF-B271-4112-B515-E0B16ED30B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261E9ADF-B271-4112-B515-E0B16ED30B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261E9ADF-B271-4112-B515-E0B16ED30B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81AF646D-C9A4-4CC3-AC5C-EC515D9B6088}
+	EndGlobalSection
+EndGlobal
